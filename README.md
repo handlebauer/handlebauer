@@ -1,4 +1,4 @@
-![Donald Geddes](donald-logo.png)
+<img src="donald-logo.png" width="400px">
 
 <!--
 **handlebauer/handlebauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
