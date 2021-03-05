@@ -1,4 +1,4 @@
-<img src="donald-logo.png" width="400px">
+<img src="donald-logo.png" width="400px" align="center">
 
 <!--
 **handlebauer/handlebauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
